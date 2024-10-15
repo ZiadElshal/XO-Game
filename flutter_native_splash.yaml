@@ -3,10 +3,10 @@ flutter_native_splash:
   # Android 11 and below
   color: "#ffffff"
   image: assets/images/xoGame_splash_screen.png
-  # branding: assets/images/branding_light.png
+  branding: assets/images/branding_ziad.png
 
   # Android 12 and above
   android_12:
     image: assets/images/xoGame_splash_screen.png
-    # branding: assets/images/branding_light.png
+    branding: assets/images/branding_ziad.png
     icon_background_color: "#ffffff"
